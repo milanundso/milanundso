@@ -20,9 +20,9 @@ public class Milan extends GitHubProfile {
         }
 
         if (deservesAFollow) {
-            System.out.println("You should still follow me");
+            System.out.println("You should follow me");
         } else {
-            System.out.println("No problem, I'll just keep pressing keys for the rest of my life");
+            System.out.println("No problem duh");
         }
     }
 
