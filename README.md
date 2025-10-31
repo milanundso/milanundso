@@ -12,7 +12,7 @@ public class Milan extends GithubProfile {
         this.shouldCheckRepositories = true;
         if(this.shouldFollow && this.shouldCheckRepositories){
             System.out.println("Thanks!");
-        }else{
+        } else {
             System.out.println("No Problem, enjoy my profile");
         }
     }
