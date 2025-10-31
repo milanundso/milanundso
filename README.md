@@ -22,9 +22,10 @@ public class Milan extends GithubProfile {
 ```
 <blockquote>
     <h1>Tools</h1>
-    <a href="https://www.comet.com/"><img alt="Comet" width="32" src="https://github.com/user-attachments/assets/0d58c61d-3c1c-43d0-b65a-f6ff95d6bb54"/></a>
+    <a href="https://www.comet.com/"><img alt="Comet" width="32" src="https://cdn.prod.website-files.com/5f15081919fdf673994ab5fd/6807f205d9da98a89a158c03_comet-browser-icon.svg"/></a>
     <a href="https://www.jetbrains.com/idea"><img alt="IntelliJ IDEA" width="32" src="https://github.com/user-attachments/assets/6d9fd039-7196-42b5-953f-5cf54e1434ff"/></a>
-    <a href="https://www.perplexity.ai/"><img alt="Perplexity" width="32" src="https://github.com/user-attachments/assets/ee547b39-22c5-4db9-9b26-3db4e450aa36"/></a>
-    <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" width="32" src="https://github.com/user-attachments/assets/1e0204f0-f59d-4f19-a5f7-8db3e3fbc02b"/></a>
-    <a href="https://claude.ai/"><img alt="Claude" width="32" src="https://github.com/user-attachments/assets/7c36c6f1-7b65-4e8d-88ae-27c64b24cb1f"/></a>
+    <a href="https://www.perplexity.ai/"><img alt="Perplexity AI" width="32" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/perplexity-ai-icon.png"/></a>
+    <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"/></a>
+    <a href="https://claude.ai/"><img alt="Claude AI" width="32" src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Claude_AI_symbol.svg"/></a>
 </blockquote>
+
