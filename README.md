@@ -10,7 +10,7 @@ public class Milan extends GithubProfile {
     public void onLoad(){
         this.shouldFollow = true;
         this.shouldCheckRepositories = true;
-        if(this.shouldFollow && this.shouldCheckRepositories){
+        if (this.shouldFollow && this.shouldCheckRepositories){
             System.out.println("Thanks!");
         } else {
             System.out.println("No Problem, enjoy my profile");
