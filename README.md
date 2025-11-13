@@ -1,11 +1,8 @@
 # <div align="center">Hi, I'm Milan 🗻 </div>
-
 ```java
 public class Milan extends GithubProfile {
-
     private boolean shouldFollow;
     private boolean shouldCheckRepositories;
-
     @Override
     public void onLoad(){
         this.shouldFollow = true;
@@ -16,19 +13,31 @@ public class Milan extends GithubProfile {
             System.out.println("No Problem, enjoy my profile :p");
         }
     }
-
 }
-
 ```
-<blockquote>
-    <h1>Tools</h1>
-    <a href="https://www.comet.com/"><img alt="Comet" width="48" src="https://cdn.prod.website-files.com/5f15081919fdf673994ab5fd/6807f205d9da98a89a158c03_comet-browser-icon.svg"/></a>
-    <a href="https://www.jetbrains.com/idea" style="margin-left: 10px;"><img alt="IntelliJ IDEA" width="48" src="https://github.com/user-attachments/assets/6d9fd039-7196-42b5-953f-5cf54e1434ff"/></a>
-    <a href="https://www.perplexity.ai/" style="margin-left: 10px;"><img alt="Perplexity AI" width="48" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/perplexity-ai-icon.png"/></a>
-    <a href="https://code.visualstudio.com/" style="margin-left: 10px;"><img alt="Visual Studio Code" width="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"/></a>
-    <a href="https://claude.ai/" style="margin-left: 10px;"><img alt="Claude AI" width="48" src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Claude_AI_symbol.svg"/></a>
-</blockquote>
 
+<h4 align="left">:globe_with_meridians: Socials:</h4>
 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/705018572010815591) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/milanundso) 
 
+<h4 align="left">:computer: Tech Stack:</h4>
 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+
+<h4 align="left">:tools: My Tools:</h4>
+
+<p align="left"> 
+  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Claude-181818.svg?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/Perplexity-1FB8CD.svg?style=for-the-badge&logo=perplexity&logoColor=white" alt="Perplexity" />
+  <img src="https://img.shields.io/badge/Comet-5B47ED.svg?style=for-the-badge&logo=comet&logoColor=white" alt="Comet" />
+</p>
+
+<h4 align="left">:bar_chart: GitHub Stats:</h4>
+
+![](https://github-readme-stats.vercel.app/api?username=Rhodless&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+---
+
+![](https://komarev.com/ghpvc/?username=Rhodless&style=for-the-badge)<br/>
