@@ -18,7 +18,7 @@ public class Milan extends GithubProfile {
 
 <h4 align="left">:globe_with_meridians: Socials:</h4>
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/705018572010815591) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/milanundso) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/705018572010815591) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=x&logoColor=white)](https://x.com/milanundso)
 
 
 <h4 align="left">:computer: Tech Stack:</h4>
