@@ -38,10 +38,10 @@ public class Milan extends GithubProfile {
 
 <p align="left"> 
   <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Claude-D97757.svg?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
   <img src="https://img.shields.io/badge/Perplexity-1FB8CD.svg?style=for-the-badge&logo=perplexity&logoColor=white" alt="Perplexity" />
-  <img src="https://img.shields.io/badge/Comet-5B47ED.svg?style=for-the-badge&logo=comet&logoColor=white" alt="Comet" />
+  <img src="https://img.shields.io/badge/Comet-5B47ED.svg?style=for-the-badge&logoColor=white" alt="Comet" />
 </p>
 
 <details>
