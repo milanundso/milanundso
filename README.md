@@ -1,7 +1,6 @@
 <p align="left">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=30&lines=Hi,+I'm+Milan+🗻;Java+Developer;Spigot+Plugin+Creator;Welcome+to+my+GitHub+Profile!" /></a>
 </p>
-
 ```java
 public class Milan extends GithubProfile {
     private boolean shouldFollow;
@@ -22,7 +21,6 @@ public class Milan extends GithubProfile {
 <h4 align="left">:globe_with_meridians: Socials:</h4>
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/705018572010815591) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=x&logoColor=white)](https://x.com/milanundso)
-
 
 <h4 align="left">:computer: Tech Stack:</h4>
 
@@ -45,10 +43,13 @@ public class Milan extends GithubProfile {
   <img src="https://img.shields.io/badge/Comet-5B47ED.svg?style=for-the-badge&logo=comet&logoColor=white" alt="Comet" />
 </p>
 
-<h4 align="left">:bar_chart: GitHub Stats:</h4>
+<details>
+<summary><h4 style="display: inline;">:bar_chart: GitHub Stats (Click to expand)</h4></summary>
 
 ![](https://github-readme-stats.vercel.app/api?username=milanundso&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 ---
 
 ![](https://komarev.com/ghpvc/?username=milanundso&style=for-the-badge)<br/>
+
+</details>
