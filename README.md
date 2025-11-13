@@ -1,4 +1,7 @@
-# <div align="center">Hi, I'm Milan 🗻 </div>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=25&lines=Hi,+I'm+Milan+🗻;Java+Developer;Spigot+Plugin+Creator;Welcome+to+my+GitHub+Profile!" /></a>
+</p>
+
 ```java
 public class Milan extends GithubProfile {
     private boolean shouldFollow;
