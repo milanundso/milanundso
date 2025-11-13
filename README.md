@@ -20,12 +20,11 @@ public class Milan extends GithubProfile {
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/705018572010815591) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/milanundso) 
 
-<h4 align="left">:computer: Tech Stack:</h4>
 
 <h4 align="left">:computer: Tech Stack:</h4>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spigot](https://img.shields.io/badge/Spigot-FF9900.svg?style=for-the-badge&logo=minecraft&logoColor=white)
+![Spigot](https://img.shields.io/badge/Spigot-FF9900.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAABGUlEQVR4nGNgoBZgZGBg+M/AwPCfgYHhPwMDw38GBob/DAwM/xkYGP4zMDD8Z2Bg+M/AwPD/PwMDw38GBob/DAwM/xkYGP7///+fgYGB4T8DA8N/BgaG/wwMDP8ZGBj+MzAw/GdgYPjPwMDwn4GB4T8DQwMDI8N/BgaG/wwMDP8ZGBj+MzAw/GdgYPjPwMDwn4GB4T8DA8N/BgaG/wwMDP8ZGBj+MzAw/P//n4GBgeE/AwPDfwYGhv8MDAwM/xkYGP4zMDD8Z2Bg+M/AwPCfgYHhPwMDw38GBob/DAwM/xkYGP4zMDD8Z2Bg+M/AwPCfgYHhPwMDw38GBob/DAwM/xkYGP4zMDD8Z2Bg+M/AwPCfgYHhPwMDw38GBob/DAwM/xkYGP4DAKYCK1qJLH0AAAAASUVORK5CYII=&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Batch](https://img.shields.io/badge/batch-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
