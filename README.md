@@ -51,6 +51,11 @@ public class Milan extends GithubProfile {
 
 ---
 
-![](https://komarev.com/ghpvc/?username=milanundso&style=for-the-badge)<br/>
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?milanundso=evansachie&theme=radical"
+    alt="Milan's GitHub Streak"
+  />
+</p>
 
 </details>
