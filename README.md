@@ -53,7 +53,7 @@ public class Milan extends GithubProfile {
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?milanundso=evansachie&theme=radical"
+    src="https://streak-stats.demolab.com?user=milanundso&theme=radical&hide_border=false"
     alt="Milan's GitHub Streak"
   />
 </p>
