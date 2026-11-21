@@ -1,4 +1,4 @@
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans&color=abcdef&size=30&width=600&height=40&vCenter=true&lines=Hi,+I'm+Milan;Founder+of+Educavo+%26+Koid;Freelancing+Developer;Open+for+Commissions" alt="Hi, I'm Milan" /></a><br />
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans&color=abcdef&size=30&width=600&height=52&vCenter=true&lines=Hi,+I'm+Milan;Founder+of+Educavo+%26+Koid;Freelancing+Developer;Open+for+Commissions" alt="Hi, I'm Milan" /></a><br />
 Hey, I'm Milan 👋🏻, the founder of [Educavo](https://educavo.eu), and I'm really really passionate about what I do. I try to build things that actually solve problems, either personal ones or ones that affect a lot more people. If you want to contact me, text me on discord: `milanundso`.
 
 ```java
@@ -38,8 +38,8 @@ public class Milan extends GithubProfile {
 <p align="center">
   <a href="https://skillicons.dev">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=kotlin,java,py,ts,js,swift&theme=dark" />
-      <img src="https://skillicons.dev/icons?i=kotlin,java,py,ts,js,swift&theme=light" alt="Kotlin, Java, Python, TypeScript, JavaScript, Swift" height="56" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=kotlin%2Cjava%2Cpy%2Cts%2Cjs%2Cswift&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=kotlin%2Cjava%2Cpy%2Cts%2Cjs%2Cswift&theme=light" alt="Kotlin, Java, Python, TypeScript, JavaScript, Swift" height="56" />
     </picture>
   </a>
 </p>
@@ -48,8 +48,8 @@ public class Milan extends GithubProfile {
 <p align="center">
   <a href="https://skillicons.dev">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,tailwind,spring,ktor,fastapi&theme=dark" />
-      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,spring,ktor,fastapi&theme=light" alt="React, Next.js, Tailwind CSS, Spring, Ktor, FastAPI" height="56" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react%2Cnextjs%2Ctailwind%2Cspring%2Cktor%2Cfastapi&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=react%2Cnextjs%2Ctailwind%2Cspring%2Cktor%2Cfastapi&theme=light" alt="React, Next.js, Tailwind CSS, Spring, Ktor, FastAPI" height="56" />
     </picture>
   </a>
 </p>
@@ -58,8 +58,8 @@ public class Milan extends GithubProfile {
 <p align="center">
   <a href="https://skillicons.dev">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,nginx,githubactions&theme=dark" />
-      <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,nginx,githubactions&theme=light" alt="PostgreSQL, MySQL, MongoDB, Redis, Docker, Nginx, GitHub Actions" height="56" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres%2Cmysql%2Cmongodb%2Credis%2Cdocker%2Cnginx%2Cgithubactions&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=postgres%2Cmysql%2Cmongodb%2Credis%2Cdocker%2Cnginx%2Cgithubactions&theme=light" alt="PostgreSQL, MySQL, MongoDB, Redis, Docker, Nginx, GitHub Actions" height="56" />
     </picture>
   </a>
 </p>
