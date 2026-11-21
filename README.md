@@ -1,6 +1,5 @@
-<p align="left">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=30&lines=Hi,+I'm+Milan+🗻;Java+Developer;Spigot+Plugin+Creator;Welcome+to+my+GitHub+Profile!" /></a>
-</p>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans&color=abcdef&size=30&width=600&height=40&vCenter=true&lines=Hi,+I'm+Milan;Founder+of+Educavo+%26+Koid;Freelancing+Developer;Open+for+Commissions" alt="Hi, I'm Milan" /></a><br />
+Hey, I'm Milan 👋🏻, the founder of [Educavo](https://educavo.eu), and I'm really really passionate about what I do. I try to build things that actually solve problems, either personal ones or ones that affect a lot more people. If you want to contact me, text me on discord: `milanundso`.
 
 ```java
 public class Milan extends GithubProfile {
@@ -19,43 +18,65 @@ public class Milan extends GithubProfile {
 }
 ```
 
-<h4 align="left">:globe_with_meridians: Socials:</h4>
+---
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/705018572010815591) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=x&logoColor=white)](https://x.com/milanundso)
+### What I'm building
 
-<h4 align="left">:computer: Tech Stack:</h4>
+<img src="assets/logos/educavo.svg" alt="" height="22" align="absmiddle" />&nbsp; **[Educavo](https://educavo.eu)**: an AI-powered study app for high school and university students, with a LOT of useful features like creating summaries, tests, flash cards and making studying much easier. It's my biggest project and where most of my time goes.
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spigot](https://img.shields.io/badge/Spigot-FF9900.svg?style=for-the-badge&logo=stackexchange&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Batch](https://img.shields.io/badge/batch-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+<img src="assets/logos/koid.png" alt="" height="22" align="absmiddle" />&nbsp; **Koid**: my own Minecraft 1.8.9 network with smooth PvP, a 1v1 practice gamemode, Hunger Games and my own "innovative" gamemode Royal Rumble. Currently Koid is in maintenance, because I am prioritizing other work, trust - one day.
 
-<h4 align="left">🛠️ My Tools:</h4>
+<img src="assets/logos/frogpvp.png" alt="" height="22" align="absmiddle" />&nbsp; **FrogPvP**: a German server network with SkyWars, Cores and FFA, where I work as the main developer, managing the entire technical execution.
 
-<p align="left"> 
-  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Claude-D97757.svg?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
-  <img src="https://img.shields.io/badge/Perplexity-1FB8CD.svg?style=for-the-badge&logo=perplexity&logoColor=white" alt="Perplexity" />
-  <img src="https://img.shields.io/badge/Comet-5B47ED.svg?style=for-the-badge&logoColor=white" alt="Comet" />
-</p>
-
-<details>
-<summary><h4 style="display: inline;">:bar_chart: GitHub Stats (Click to expand)</h4></summary>
-
-![](https://github-readme-stats.vercel.app/api?username=milanundso&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<img src="assets/logos/viron.png" alt="" height="22" align="absmiddle" />&nbsp; **[Viron Compliance](https://viron.eco)**: I'm a developer there and mostly manage the backend to make it easier to handle customers, whilst also doing some general improvements.
 
 ---
 
+### Tech Stack
+
+**Languages**
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=milanundso&theme=radical&hide_border=false"
-    alt="Milan's GitHub Streak"
-  />
+  <a href="https://skillicons.dev">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=kotlin,java,py,ts,js,swift&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=kotlin,java,py,ts,js,swift&theme=light" alt="Kotlin, Java, Python, TypeScript, JavaScript, Swift" height="56" />
+    </picture>
+  </a>
 </p>
 
-</details>
+**Frameworks**
+<p align="center">
+  <a href="https://skillicons.dev">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,tailwind,spring,ktor,fastapi&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,spring,ktor,fastapi&theme=light" alt="React, Next.js, Tailwind CSS, Spring, Ktor, FastAPI" height="56" />
+    </picture>
+  </a>
+</p>
+
+**Databases & Infrastructure**
+<p align="center">
+  <a href="https://skillicons.dev">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,nginx,githubactions&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,nginx,githubactions&theme=light" alt="PostgreSQL, MySQL, MongoDB, Redis, Docker, Nginx, GitHub Actions" height="56" />
+    </picture>
+  </a>
+</p>
+
+**LLMs**
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude-181818?style=for-the-badge&logo=claude&logoColor=D97757" alt="Claude" height="34" />
+  <img src="https://img.shields.io/badge/OpenAI-181818?style=for-the-badge" alt="OpenAI" height="34" />
+  <img src="https://img.shields.io/badge/Qwen-181818?style=for-the-badge&logo=qwen&logoColor=8B7CFF" alt="Qwen" height="34" />
+  <img src="https://img.shields.io/badge/Ollama-181818?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" height="34" />
+</p>
+
+---
+
+### Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=milanundso&theme=radical&hide_border=false" alt="Milan's GitHub Streak" />
+</p>
+
